@@ -77,7 +77,6 @@ table.box{
     margin-left:26px;
     color:blue;
     background:linear-gradient(to top,green,white,orange);
-    border-box;
 }
 nav ul  {
     border-radius:20px;
